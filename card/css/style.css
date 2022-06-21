@@ -1,0 +1,122 @@
+.card{
+    width: 300px;
+    border: 1px solid #ddd;
+    margin: auto;
+    font-family: Arial;
+    box-sizing: border border-box;
+    transition: 0.3s;
+}
+.card :hover{
+    background-color:#389120;
+    transition: 0.3s;
+}
+
+.card .card_text a{
+    text-decoration: none;
+    text-align: center;line-height: 40px;
+    color: #f57224;
+    width: 150px;
+    height: 40px;
+    border: 1px solid #f57224;
+    border-radius: 5px;
+    display:inline-block;
+    transition: 0.3s;
+}
+
+.card .card_text a:hover{
+    background-color: #f57224;
+    color: aliceblue;
+    border-radius: 0 25px 0 25px;
+}
+
+.card img{
+    width: 100%;
+}
+
+.card .card_text h2{
+    font-size: 19px;
+    margin: 10px 0;
+}
+.card .card_text{
+    padding: 0 10px;
+    box-sizing: border border-box;
+    padding: 0 20px 20px 20px;
+}
+.card .card_text{
+    font-family: arial;
+}
+.card .card_text .price{
+    color:  #f57224;
+    font-size: 20px;
+    margin: 15px 0;
+    }
+    .card .card_text .discount span{
+        text-decoration:line-through ;
+
+       
+    
+    }
+
+    .card_1{
+        width: 300px;
+        border: 1px solid #ddd;
+        margin: auto;
+        font-family: Arial;
+        box-sizing: border border-box;
+    }
+    
+    .car_1 img{
+        width: 100%;
+    }
+    
+    .card_1 .card_text h2{
+        font-size: 19px;
+        margin: 10px 0;
+    }
+    .card_1 .card_text{
+        box-sizing: border border-box;
+        padding: 0 20px 20px 20px;
+    }
+    .card_1 .card_text{
+        font-family: arial;
+    }
+    .card_1 .card_text .price{
+        color:  #f57224;
+        font-size: 20px;
+        margin: 15px 0;
+        }
+        .card_1 .card_text .discount span{
+            text-decoration:line-through ;
+         }
+
+        .card_2{
+            width: 300px;
+            border: 1px solid #ddd;
+            margin: auto;
+            font-family: Arial;
+            box-sizing: border border-box;
+        }
+        
+        .car_2 img{
+            width: 100%;
+        }
+        
+        .card_2 .card_text h2{
+            font-size: 19px;
+            margin: 10px 0;
+        }
+        .card_2 .card_text{
+            box-sizing: border border-box;
+            padding: 0 20px 20px 20px;
+        }
+        .card_2 .card_text{
+            font-family: arial;
+        }
+        .card_2 .card_text .price{
+            color:  #f57224;
+            font-size: 20px;
+            margin: 15px 0;
+            }
+            .card_2 .card_text .discount span{
+                text-decoration:line-through ;
+            }
